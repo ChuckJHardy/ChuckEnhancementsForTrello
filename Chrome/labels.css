@@ -19,14 +19,3 @@
     width: auto!important;
     display: inline!important;
 }
-.list-header-num-cards
-{
-    display: inline-block!important;
-}
-
-.card-short-id
-{
-    display: inline-block!important;
-    font-weight: bold;
-    padding-right: 5px;
-}
