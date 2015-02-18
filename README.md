@@ -6,6 +6,8 @@ Tiny enhancements for easier communication in a team.
 2. Cards count
 3. Card numbers
 
+![Example](Graphics/Example.png)
+
 ## Contributing
 
 1. Fork it
