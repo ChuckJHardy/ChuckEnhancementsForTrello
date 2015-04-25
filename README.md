@@ -6,6 +6,10 @@ Tiny enhancements for easier communication in a team.
 2. Cards count
 3. Card numbers
 
+| Browser | Link |
+| --- | --- |
+| Safari | [Download Extension](https://github.com/ChuckJHardy/ColorTitlesTrello/raw/master/Trello%20Enhancements.safariextz) |
+
 ![Example](Graphics/Example.png)
 
 ## Contributing
