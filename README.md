@@ -6,6 +6,11 @@ Tiny enhancements for easier communication in a team.
 2. Cards count
 3. Card numbers
 
+| Browser | Link |
+| --- | --- |
+| Chrome | [Download Extension](https://chrome.google.com/webstore/detail/chuck-enhancements-for-tr/jnfooppcjiafgeenkfeneflchjnpcepm) |
+| Safari | [Download Extension](https://github.com/ChuckJHardy/ChuckEnhancementsForTrello/blob/master/Trello%20Enhancements.safariextz?raw=true) |
+
 ![Example](Graphics/Example.png)
 
 ## Contributing
